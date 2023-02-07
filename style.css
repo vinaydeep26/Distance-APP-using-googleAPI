@@ -1,0 +1,27 @@
+body{
+    background: url(camera-ga4afd9b5c_1920.jpg) center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 10px;
+}
+.jumbotron h1 {
+    letter-spacing: 2.5px;
+}
+.jumbotron h1 , .jumbotron p  {
+    text-align: center;
+}
+
+#googlemap {
+    width: 100%;
+    height: 300px;
+    margin: 10px auto;
+}
+#output{
+    text-align: center;
+ font-size: 2em;
+ margin: 20px auto;
+}
